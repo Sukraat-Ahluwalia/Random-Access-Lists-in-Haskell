@@ -1,5 +1,5 @@
 # Random-Access-Lists-in-Haskell
-Implementing lists in Haskell with random access like `std::vector`,`ArrayList<T>` in Java based on Okasaki's "Random Access Lists" from Purely Functional Data Structures.
+Implementing lists in Haskell with random access like C++'s `std::vector`,`ArrayList<T>` in Java based on Okasaki's "Random Access Lists" from Purely Functional Data Structures.
 
 To run the code first type `$ghci` to load the GHCI interpreter and then `:l random-access-list.hs` to load the code. Once that has been done, here's how to play with the code - 
 
