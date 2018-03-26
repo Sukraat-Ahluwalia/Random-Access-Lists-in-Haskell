@@ -3,7 +3,7 @@ Implementing lists in Haskell with random access like std::vector,ArrayList&lt;T
 
 To run the code first type `$ghci` to load the GHCI interpreter and then `:l random-access-list.hs` to load the code. Once that has been done, here's how to play with the code - 
 
-* Call the `converToRandom` function and provide a regular list to convert it to a random access list
+* Call the `convertToRandom` function and provide a regular list to convert it to a random access list
 
 `let foo = convertToRandom [1,2,3,4]` 
 
